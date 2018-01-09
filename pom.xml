@@ -7,6 +7,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>03eureka-server</module>
+      <module>02boot-example</module>
+      <module>03ribbon-consumer</module>
   </modules>
   <packaging>pom</packaging>
 
